@@ -1,0 +1,4 @@
+# Dependencias del paquete
+customtkinter
+opencv-python
+pillow
